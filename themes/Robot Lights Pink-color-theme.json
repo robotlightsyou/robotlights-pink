@@ -1,19 +1,5 @@
 {
 	"name": "Robot Lights Pink",
-	"publisher": "robolightsyou",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/robotlightsyou/robotlights-pink"
-	},
-	"keywords": [
-		"theme",
-		"pink",
-		"broadway pink",
-		"dark pink",
-		"pink slate, navy",
-		"R339",
-		"Rosco 339"
-	]
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
